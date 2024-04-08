@@ -1,0 +1,914 @@
+[
+  {
+    "name": "PERF ULT CT LID GP&DK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402321",
+    "size": "12LB",
+    "barcode_number": 778198056115
+  },
+  {
+    "name": "PERF ULT CT GF KIT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402299",
+    "size": "2.5LB",
+    "barcode_number": 778198055897
+  },
+  {
+    "name": "PERF ULT CT LID TURKEY",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402331",
+    "size": "12LB",
+    "barcode_number": 778198056214
+  },
+  {
+    "name": "PERF ULT CT GF TK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409294",
+    "size": "13.2OZ",
+    "barcode_number": 778198062420
+  },
+  {
+    "name": "PERF ULT CT GF TUNA BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409304",
+    "size": "3OZ",
+    "barcode_number": 778198062529
+  },
+  {
+    "name": "PERF ULT CT GF SNR",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402311",
+    "size": "12LB",
+    "barcode_number": 778198056016
+  },
+  {
+    "name": "PERF ULT CT GF TRT BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409311",
+    "size": "13.2OZ",
+    "barcode_number": 778198062598
+  },
+  {
+    "name": "PERFORMATRIN ULTRA LIMITED INGREDIENT POTATO & SALMON CAT FOOD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": 6402325,
+    "size": "2.5LBS",
+    "barcode_number": 778198056160
+  },
+  {
+    "name": "PERF ULT CT GF BF STW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409287",
+    "size": "5.5OZ",
+    "barcode_number": 778198062352
+  },
+  {
+    "name": "PERF ULT CT GF SNR",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402310",
+    "size": "4LB",
+    "barcode_number": 778198056009
+  },
+  {
+    "name": "PERF NTRL CT CK&VG KIT",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000460",
+    "size": "5.5OZ",
+    "barcode_number": 778198048554
+  },
+  {
+    "name": "PERF ULT CT LID CK&SP",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402335",
+    "size": "2.5LB",
+    "barcode_number": 778198056252
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL MIN",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402770",
+    "size": "11.3OZ",
+    "barcode_number": 778198057761
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL SM",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6251769",
+    "size": "5.7OZ",
+    "barcode_number": 3100932241247
+  },
+  {
+    "name": "PERF ULT CT GF CHK KIT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409302",
+    "size": "13.2OZ",
+    "barcode_number": 778198062505
+  },
+  {
+    "name": "PERF ULT CT WG CK&R",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402291",
+    "size": "4LB",
+    "barcode_number": 778198058041
+  },
+  {
+    "name": "Performatrin Naturals Chicken & Veggies Recipe Kitten Cat Food",
+    "brand": "Performatrin Naturals",
+    "animal": "Cat",
+    "item_number": 1000372,
+    "size": "2.5lbs",
+    "barcode_number": 778198043818
+  },
+  {
+    "name": "PERF ULT CT WG L&R AD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402319",
+    "size": "12LB",
+    "barcode_number": 778198056092
+  },
+  {
+    "name": "PERF ULT CT GF CHK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409300",
+    "size": "5.5OZ",
+    "barcode_number": 778198062482
+  },
+  {
+    "name": "PERF ULT CT LID SL",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402327",
+    "size": "4LB",
+    "barcode_number": 778198056177
+  },
+  {
+    "name": "PERF ULT CT WG HWGT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402314",
+    "size": "12LB",
+    "barcode_number": 778198056047
+  },
+  {
+    "name": "PERF ULT CT GF TK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409292",
+    "size": "3OZ",
+    "barcode_number": 778198062406
+  },
+  {
+    "name": "PERF ULT CT GF CHK SNR",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409313",
+    "size": "13.2OZ",
+    "barcode_number": 778198062611
+  },
+  {
+    "name": "PERF ULT CT LICKABLE TUNA",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409728",
+    "size": "2OZ",
+    "barcode_number": 778198063694
+  },
+  {
+    "name": "PERF ULT CT GF TK STEW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409290",
+    "size": "5.5OZ",
+    "barcode_number": 778198062383
+  },
+  {
+    "name": "PERF ULT CT WG CK&R",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402290",
+    "size": "12LB",
+    "barcode_number": 778198055804
+  },
+  {
+    "name": "PERF ULT CT WG HWGT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402313",
+    "size": "4LB",
+    "barcode_number": 778198056030
+  },
+  {
+    "name": "PERF ULT CT LID SL",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402325",
+    "size": "12LB",
+    "barcode_number": 778198056153
+  },
+  {
+    "name": "PERF ULT CT GF TK STW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409291",
+    "size": "13.2OZ",
+    "barcode_number": 778198062390
+  },
+  {
+    "name": "PERF ULT CT GF BF STW ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409288",
+    "size": "13.2OZ",
+    "barcode_number": 778198062369
+  },
+  {
+    "name": "PERF ULT CT GF TK&SL&DK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409295",
+    "size": "3OZ",
+    "barcode_number": 778198062437
+  },
+  {
+    "name": "PERF ULT CT GF CHK STEW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409284",
+    "size": "5.5OZ",
+    "barcode_number": 778198062321
+  },
+  {
+    "name": "PERF ULT CT GF",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402305",
+    "size": "2.5LB",
+    "barcode_number": 778198055958
+  },
+  {
+    "name": "PERF ULT CT GF SNR",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402309",
+    "size": "2.5LBS",
+    "barcode_number": 778198055996
+  },
+  {
+    "name": "PERF ULT CT GF OCN",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402302",
+    "size": "12LB",
+    "barcode_number": 778198055927
+  },
+  {
+    "name": "PERF ULT CT TRT BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409309",
+    "size": "3OZ",
+    "barcode_number": 778198062574
+  },
+  {
+    "name": "Performatrin Ultra DG WG CK&R PUP",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402442,
+    "size": "12lb",
+    "barcode_number": 778198057327
+  },
+  {
+    "name": "PERF NTRL CT GF CHK AD",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000370",
+    "size": "2.5LB",
+    "barcode_number": 778198043795
+  },
+  {
+    "name": "PERF ULT CT GF FRMSTD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402294",
+    "size": "2.5LB",
+    "barcode_number": 778198055842
+  },
+  {
+    "name": "Performatrin Naturals Turducken Sliders",
+    "brand": "Performatrin Naturals",
+    "animal": "Dog",
+    "item_number": 6251775,
+    "size": "7oz",
+    "barcode_number": 778198055057
+  },
+  {
+    "name": "PERF ULT CT LID CK&SP",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402333",
+    "size": "4LB",
+    "barcode_number": 778198056238
+  },
+  {
+    "name": "PERF ULT CT GF TUNA BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409306",
+    "size": "13.2OZ",
+    "barcode_number": 778198062543
+  },
+  {
+    "name": "PERF ULT CT WG L&R AD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402318",
+    "size": "2.5LB",
+    "barcode_number": 778198056085
+  },
+  {
+    "name": "PERF ULT CT GF OCN",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402301",
+    "size": "4LB",
+    "barcode_number": 778198055910
+  },
+  {
+    "name": "PE F NTRL CT CK&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000444",
+    "size": "3OZ",
+    "barcode_number": 778198045843
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL MINI",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402769",
+    "size": "5.6OZ",
+    "barcode_number": 778198057754
+  },
+  {
+    "name": "PERF ULT CT LID GP&DK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402322",
+    "size": "4LB",
+    "barcode_number": 778198056122
+  },
+  {
+    "name": "PERF ULT DG STREAM AG",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6237198,
+    "size": "12lb",
+    "barcode_number": 778198054012
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL MD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6251770",
+    "size": "6.4OZ",
+    "barcode_number": 778198055002
+  },
+  {
+    "name": "PERF ULT CT GF",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402307",
+    "size": "4LB",
+    "barcode_number": 778198055972
+  },
+  {
+    "name": "PERF ULT DG GF PUP",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402389,
+    "size": "12lb",
+    "barcode_number": 778198056795
+  },
+  {
+    "name": "PERF ULT CT GF SL BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409307",
+    "size": "5.5OZ",
+    "barcode_number": 778198062550
+  },
+  {
+    "name": "PERF NTRL CT GF SLM AD",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000371",
+    "size": "2.5LB",
+    "barcode_number": 778198043801
+  },
+  {
+    "name": "PERF NTRL CT SLM&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000455",
+    "size": "13OZ",
+    "barcode_number": 778198045959
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL LG",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402552",
+    "size": "12.7OZ",
+    "barcode_number": 778198057709
+  },
+  {
+    "name": "PERF ULT CT GF TK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409293",
+    "size": "5.5OZ",
+    "barcode_number": 778198062413
+  },
+  {
+    "name": "PERF ULT CT LID TURKEY",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402330",
+    "size": "2.5LB",
+    "barcode_number": 778198056207
+  },
+  {
+    "name": "PERF NAT CHICKEN MTBLLS",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Dog",
+    "item_number": "6251773",
+    "size": "7oz",
+    "barcode_number": 778198055033
+  },
+  {
+    "name": "PERF NTRL CT GF CHK",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000382",
+    "size": "12LB",
+    "barcode_number": 778198043917
+  },
+  {
+    "name": "PERF ULT CT GF TUNA BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409305",
+    "size": "5.5OZ",
+    "barcode_number": 778198062536
+  },
+  {
+    "name": "PERF ULT WG HWGT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402315",
+    "size": "2.5LB",
+    "barcode_number": 778198056054
+  },
+  {
+    "name": "PERF NTRL CT CK&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000452",
+    "size": "13OZ",
+    "barcode_number": 778198045928
+  },
+  {
+    "name": "PERF NTRL SLM&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000447",
+    "size": "3OZ",
+    "barcode_number": 778198045874
+  },
+  {
+    "name": "PERF ULT DG GF FTHL",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402367,
+    "size": "4lb",
+    "barcode_number": 778198056573
+  },
+  {
+    "name": "PERF ULT CT GF",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402306",
+    "size": "12LB",
+    "barcode_number": 778198055965
+  },
+  {
+    "name": "PERF NTRL CT CK&VG PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "1000448",
+    "size": "5.5OZ",
+    "barcode_number": 778198045881
+  },
+  {
+    "name": "PERF ULT CT GF CHK KIT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409298",
+    "size": "3OZ",
+    "barcode_number": 778198062468
+  },
+  {
+    "name": "PERF ULT CT LID CK&SP",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402334",
+    "size": "12LB",
+    "barcode_number": 778198056245
+  },
+  {
+    "name": "PERF ULT CT GF TK&SL&DK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409297",
+    "size": "13.2OZ",
+    "barcode_number": 778198062451
+  },
+  {
+    "name": "Performatrin Ultra DG WG CK&R",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402338,
+    "size": "12lb",
+    "barcode_number": 778198056283
+  },
+  {
+    "name": "PERF ULT CT WG CK&R",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402292",
+    "size": "2.5LB",
+    "barcode_number": 778198055828
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL SM",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6251769",
+    "size": "5.7OZ",
+    "barcode_number": 778198054999
+  },
+  {
+    "name": "PERF NTRL DG GF BF AD",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Dog",
+    "item_number": "6229562",
+    "size": "4LBS",
+    "barcode_number": 778198048813
+  },
+  {
+    "name": "PERF NTRL CT GF SLM AD",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000380",
+    "size": "5LB",
+    "barcode_number": 778198043894
+  },
+  {
+    "name": "PERF NTRL CT SLM&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000451",
+    "size": "5.5OZ",
+    "barcode_number": 778198045911
+  },
+  {
+    "name": "PERF ULT CT GF FRMSTD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402295",
+    "size": "4LB",
+    "barcode_number": 778198055859
+  },
+  {
+    "name": "PERF ULT CT LID TURKEY",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402329",
+    "size": "4LB",
+    "barcode_number": 778198056191
+  },
+  {
+    "name": "PERF ULT CT GF TRT BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409310",
+    "size": "5.5OZ",
+    "barcode_number": 778198062581
+  },
+  {
+    "name": "PERF ULT CT GF FRMSTD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402296",
+    "size": "12LB",
+    "barcode_number": 778198055866
+  },
+  {
+    "name": "PERF ULT CT GF CHK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409303",
+    "size": "13.2OZ",
+    "barcode_number": 778198062512
+  },
+  {
+    "name": "PERF ULT CT GF TK STW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409289",
+    "size": "3OZ",
+    "barcode_number": 778198062376
+  },
+  {
+    "name": "PERFORMATRIN NATURALS PORK LIVER MEATBALLS",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Dog",
+    "item_number": "6251774",
+    "size": "7oz",
+    "barcode_number": 778198055040
+  },
+  {
+    "name": "PERF ULT CT GF CHK SNR",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409312",
+    "size": "5.5OZ",
+    "barcode_number": 778198062604
+  },
+  {
+    "name": "PERF ULT DG LID CK&SP",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6409269,
+    "size": "13.2oz",
+    "barcode_number": 778198062178
+  },
+  {
+    "name": "PERF NTRL CT GF SLM AD",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000383",
+    "size": "12LB",
+    "barcode_number": 778198043924
+  },
+  {
+    "name": "PERF ULT CT GF CHK STEW ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409285",
+    "size": "13.2OZ",
+    "barcode_number": 778198062338
+  },
+  {
+    "name": "PERF ULT CT WG L&R AD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402317",
+    "size": "4LB",
+    "barcode_number": 778198056078
+  },
+  {
+    "name": "Performatrin Ultra Limited Ingredient Potato & Turkey Dog Food ",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402423,
+    "size": "4lbs",
+    "barcode_number": 778198057136
+  },
+  {
+    "name": "PERF ULT CT LICKABLE CHK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409726",
+    "size": "2OZ",
+    "barcode_number": 778198063670
+  },
+  {
+    "name": "PERF NTRL CT GF CHK KIT",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000381",
+    "size": "5LB",
+    "barcode_number": 778198043900
+  },
+  {
+    "name": "PERF ULT CT GF CHK KIT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409301",
+    "size": "5.5OZ",
+    "barcode_number": 778198062499
+  },
+  {
+    "name": "PERF NTRL CK&VG KIT",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000456",
+    "size": "3OZ",
+    "barcode_number": 778198045966
+  },
+  {
+    "name": "PERF ULT CT GF CHK STEW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409283",
+    "size": "3OZ",
+    "barcode_number": 778198062314
+  },
+  {
+    "name": "PERF ULT DG FD BITES CHK",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6406518,
+    "size": "16oz",
+    "barcode_number": 778198057990
+  },
+  {
+    "name": "PERF ULT HD-F RBBT STK5IN",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402477",
+    "size": "3.5OZ",
+    "barcode_number": 778198057679
+  },
+  {
+    "name": "PERF ULT CT GF BF STW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409286",
+    "size": "3OZ",
+    "barcode_number": 778198062345
+  },
+  {
+    "name": "PERF ULT CT GF SL BSQ",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409308",
+    "size": "13.2OZ",
+    "barcode_number": 778198062567
+  },
+  {
+    "name": "PERF ULT CT LID GO&DK",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402323",
+    "size": "2.5LB",
+    "barcode_number": 778198056139
+  },
+  {
+    "name": "Performatrin Naturals Beef Liver Sliders",
+    "brand": "Performatrin Naturals",
+    "animal": "Dog",
+    "item_number": 6251772,
+    "size": "7oz",
+    "barcode_number": 778198055026
+  },
+  {
+    "name": "PERF ULT DG LID DK&POT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402413",
+    "size": "24LB",
+    "barcode_number": 77819807037
+  },
+  {
+    "name": "PERF ULT DG PBL CSTEW",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 1002239,
+    "size": "3.5oz",
+    "barcode_number": 778198038753
+  },
+  {
+    "name": "PERF ULT CT GF KIT",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402298",
+    "size": "4LB",
+    "barcode_number": 778198055880
+  },
+  {
+    "name": "PERF NAT DG BF LIVR SLDRS",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Dog",
+    "item_number": "6467142",
+    "size": "15OZ",
+    "barcode_number": 778198072924
+  },
+  {
+    "name": "PERF ULT CT GF OCN",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6402303",
+    "size": "2.5LB",
+    "barcode_number": 778198055934
+  },
+  {
+    "name": "PERF ULT CT GF CHK PATE",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "",
+    "item_number": "6409299",
+    "size": "3OZ",
+    "barcode_number": 778198062475
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL SM",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402550",
+    "size": "11.4OZ",
+    "barcode_number": 778198057686
+  },
+  {
+    "name": "PERF ULT CT LICKABLE CHK&SCLP",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409727",
+    "size": "2OZ",
+    "barcode_number": 778198063687
+  },
+  {
+    "name": "PERF ULT DG WG CK&R SMBT",
+    "brand": "Performatrin Ultra",
+    "animal": "Dog",
+    "item_number": 6402342,
+    "size": "12lb",
+    "barcode_number": 778198056320
+  },
+  {
+    "name": "PERF ULT HD-F BF ROLL XL",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402472",
+    "size": "9IN",
+    "barcode_number": 778198057624
+  },
+  {
+    "name": "PERF ULT CT GF CHK STEW",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Cat",
+    "item_number": "6409284",
+    "size": "5.5OZ",
+    "barcode_number": 778198062311
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL MD",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6402551",
+    "size": "12.7OZ",
+    "barcode_number": 778198057693
+  },
+  {
+    "name": "PERF NTRL CT TK&VG PATE",
+    "brand": "PERFORMATRIN NATURALS",
+    "animal": "Cat",
+    "item_number": "1000449",
+    "size": "5.5OZ",
+    "barcode_number": 778198045898
+  },
+  {
+    "name": "PERF ULTRA DG DENTAL LG",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6251771",
+    "size": "6.4OZ",
+    "barcode_number": 778198055019
+  },
+  {
+    "name": "PERF ULT HD-F BEEF RLL",
+    "brand": "PERFORMATRIN ULTRA",
+    "animal": "Dog",
+    "item_number": "6239769",
+    "size": "7IN",
+    "barcode_number": 778198054791
+  }
+]

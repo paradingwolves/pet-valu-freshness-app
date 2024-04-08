@@ -8,13 +8,14 @@ const RegisterStore = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [storeNumber, setStoreNumber] = useState('');
+  const [displayName, setDisplayName] = useState('');
   const [success, setSuccess] = useState(false);
 
   const handleRegister = async (e) => {
     e.preventDefault();
     
     // Call the registerStore function
-    await registerStore(email, password, storeNumber);
+    await registerStore(email, password, storeNumber, displayName);
     
     // Check for errors and show success message
     if (!error) {
@@ -23,6 +24,7 @@ const RegisterStore = () => {
       setEmail('');
       setPassword('');
       setStoreNumber('');
+      setDisplayName('');
     }
   };
 
@@ -49,6 +51,20 @@ const RegisterStore = () => {
                     id="email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
+                    required
+                  />
+                </div>
+                <div className="mb-3">
+                  <label htmlFor="displayName" className="form-label">
+                    Username
+                  </label>
+                  <input
+                    type="text"
+                    className="form-control"
+                    placeholder="Store 1234"
+                    id="displayName"
+                    value={displayName}
+                    onChange={(e) => setDisplayName(e.target.value)}
                     required
                   />
                 </div>

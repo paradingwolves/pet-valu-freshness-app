@@ -1,19 +1,23 @@
 import { useState } from 'react';
-import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
+import { getAuth, createUserWithEmailAndPassword, updateProfile } from 'firebase/auth';
 import { getFirestore, doc, setDoc, collection, addDoc } from 'firebase/firestore';
+import { v4 as uuidv4 } from 'uuid'; // Import UUID generator
 
 const useRegisterStore = () => {
   const auth = getAuth();
   const firestore = getFirestore();
   const [error, setError] = useState(null);
 
-  const registerStore = async (email, password, storeNumber) => {
+  const registerStore = async (email, password, storeNumber, displayName) => {
     try {
       // Create a new Firebase user
       const authUserCredential = await createUserWithEmailAndPassword(auth, email, password);
 
       // Access the user from the authUserCredential
       const authUser = authUserCredential.user;
+
+      // Set the displayName for the user
+      await updateProfile(authUser, { displayName });
 
       if (!authUser?.uid) {
         throw new Error('Failed to create user. Missing UID.');
@@ -30,9 +34,8 @@ const useRegisterStore = () => {
       await setDoc(storeDocRef, {
         email,
         id: authUser.uid,
-        store_number: Number(storeNumber),
-        initialized: false
-       
+        displayName,
+        store_number: Number(storeNumber)
       });
 
       // Create the "inventory" subcollection

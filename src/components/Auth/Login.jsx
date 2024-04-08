@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useForm } from 'react-hook-form';
 import useFirebaseEmailLogin from '../../hooks/useLogin';
 import useFirebaseLogout from '../../hooks/useLogout';
-import { emailValidate, passwordValidate } from '../../util/form-validation';
+import { emailValidate, passwordValidate } from '../../util/form-validate';
 import { HOME, REGISTER } from '../../lib/routes';
 import { useNavigate, Link } from 'react-router-dom';
 import RegisterStore from './RegisterStore';

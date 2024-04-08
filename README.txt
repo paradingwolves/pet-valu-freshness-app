@@ -9,6 +9,7 @@ npm packages installed:
     - npm i quagga
     - npm i react-firebase-hooks
     - npm i react-modal
+    - npm i react-hook-form
 
 
 ------------------------------------------------------------------
