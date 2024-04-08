@@ -12,12 +12,6 @@ npm packages installed:
     - npm i react-hook-form
 
 
-------------------------------------------------------------------
-    Date Modified: April 05, 2024
-------------------------------------------------------------------
-- installed neccessary packages for this project
-- created the skeleton of the project
-
 This project will have the following Database Structure for product freshness management
 
 STOCK DATABASE
@@ -31,3 +25,20 @@ STORE DATABASE
 --------------
 --> items that the store has in stock
 	--> each product document has a nested DB with QTY, EXPIRY_DATE 
+
+
+
+
+------------------------------------------------------------------
+    Date Modified: April 05, 2024
+------------------------------------------------------------------
+- installed neccessary packages for this project
+- created the skeleton of the project
+
+
+------------------------------------------------------------------
+    Date Modified: April 08, 2024
+------------------------------------------------------------------
+- added routes 
+- seeded the "stock" collection
+- users can now register their stores
