@@ -54,20 +54,7 @@ const RegisterStore = () => {
                     required
                   />
                 </div>
-                <div className="mb-3">
-                  <label htmlFor="displayName" className="form-label">
-                    Username
-                  </label>
-                  <input
-                    type="text"
-                    className="form-control"
-                    placeholder="Store 1234"
-                    id="displayName"
-                    value={displayName}
-                    onChange={(e) => setDisplayName(e.target.value)}
-                    required
-                  />
-                </div>
+               
                 <div className="mb-3">
                   <label htmlFor="password" className="form-label">
                     Password
